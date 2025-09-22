@@ -1,1 +1,4 @@
 pandas
+api-brasil
+nicegui
+openpyxl
